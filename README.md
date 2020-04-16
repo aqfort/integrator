@@ -3,7 +3,7 @@
 
 Interface -- java
 
-Calculations (parallel) -- c++ with omp
+Calculations (parallel) -- C++ with omp
 
 Simpson's rule is used to find the integral
 
